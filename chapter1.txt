@@ -1,1 +1,2 @@
-This is an example line of code for testing version control with GIT
+This is an example line of code for testing version control with GIT.
+And the aliens are attacking me now, aaah.
